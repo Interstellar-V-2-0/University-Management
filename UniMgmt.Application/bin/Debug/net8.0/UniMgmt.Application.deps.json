@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UniMgmt.Application/1.0.0": {
+        "dependencies": {
+          "UniMgmt.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UniMgmt.Application.dll": {}
+        }
+      },
+      "UniMgmt.Domain/1.0.0": {
+        "runtime": {
+          "UniMgmt.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UniMgmt.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UniMgmt.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

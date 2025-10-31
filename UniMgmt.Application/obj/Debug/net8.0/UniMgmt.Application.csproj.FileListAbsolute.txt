@@ -1,0 +1,16 @@
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\bin\Debug\net8.0\UniMgmt.Application.deps.json
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\bin\Debug\net8.0\UniMgmt.Application.dll
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\bin\Debug\net8.0\UniMgmt.Application.pdb
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\bin\Debug\net8.0\UniMgmt.Domain.dll
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\bin\Debug\net8.0\UniMgmt.Domain.pdb
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt..7931843A.Up2Date
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.dll
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\refint\UniMgmt.Application.dll
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\UniMgmt.Application.pdb
+C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Application\obj\Debug\net8.0\ref\UniMgmt.Application.dll
