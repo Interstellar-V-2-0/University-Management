@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hHD7Ohqk9wshLpBQvuD6HuP7b8KylnziNECLfPPGCvY=",
+  "Source": "UniMgmt.Api",
+  "BasePath": "_content/UniMgmt.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
