@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Application\\UniMgmt.Application.csproj": {}
+    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Application\\UniMgmt.Application.csproj": {
+    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Application\\UniMgmt.Application.csproj",
+        "projectUniqueName": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj",
         "projectName": "UniMgmt.Application",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Application\\UniMgmt.Application.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Application\\obj\\",
+        "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj",
+        "packagesPath": "/home/anamaria-mu-oz/.nuget/packages/",
+        "outputPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/anamaria-mu-oz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Domain\\UniMgmt.Domain.csproj": {
-                "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Domain\\UniMgmt.Domain.csproj"
+              "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj": {
+                "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj"
               }
             }
           }
@@ -41,7 +41,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -57,26 +58,36 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/anamaria-mu-oz/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Domain\\UniMgmt.Domain.csproj": {
+    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Domain\\UniMgmt.Domain.csproj",
+        "projectUniqueName": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj",
         "projectName": "UniMgmt.Domain",
-        "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Domain\\UniMgmt.Domain.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\University-Management\\UniMgmt.Domain\\obj\\",
+        "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj",
+        "packagesPath": "/home/anamaria-mu-oz/.nuget/packages/",
+        "outputPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/anamaria-mu-oz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -99,7 +110,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -115,12 +127,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.21, 8.0.21]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.415/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/anamaria-mu-oz/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
