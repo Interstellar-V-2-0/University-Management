@@ -13,6 +13,5 @@ public class AppDbContext : DbContext
     public DbSet<Professor> Professors { get; set; }
     public DbSet<Qualification> Qualifications { get; set; }
     public DbSet<Section> Sections { get; set; }
-    public DbSet<Person> Persons { get; set; }
 
 }

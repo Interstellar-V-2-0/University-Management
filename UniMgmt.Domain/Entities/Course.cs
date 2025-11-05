@@ -7,7 +7,7 @@ public class Course
     public string Description {get; set;}
     
     public int ProfessorId {get; set;}
-    public Professor Professor {get; set;}
+    public Professor? Professor {get; set;}
 
     public List<Section> Sections { get; set; } = new List<Section>();
 }
