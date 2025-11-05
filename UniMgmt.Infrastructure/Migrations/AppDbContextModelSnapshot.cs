@@ -144,6 +144,10 @@ namespace UniMgmt.Infrastructure.Migrations
                     b.Property<int>("CapacityMax")
                         .HasColumnType("int");
 
+                    b.Property<string>("Classroom")
+                        .IsRequired()
+                        .HasColumnType("longtext");
+
                     b.Property<int>("CourseId")
                         .HasColumnType("int");
 
@@ -156,10 +160,6 @@ namespace UniMgmt.Infrastructure.Migrations
 
                     b.Property<TimeSpan>("StarTime")
                         .HasColumnType("time(6)");
-
-                    b.Property<string>("classroom")
-                        .IsRequired()
-                        .HasColumnType("longtext");
 
                     b.HasKey("Id");
 
@@ -256,8 +256,7 @@ namespace UniMgmt.Infrastructure.Migrations
 
             modelBuilder.Entity("UniMgmt.Domain.Entities.Inscription", b =>
                 {
-                    b.Navigation("Qualification")
-                        .IsRequired();
+                    b.Navigation("Qualification");
                 });
 
             modelBuilder.Entity("UniMgmt.Domain.Entities.Professor", b =>

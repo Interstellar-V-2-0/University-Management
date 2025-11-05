@@ -11,9 +11,9 @@ public class InscriptionService : Service<Inscription>, IInscriptionService
     private readonly IStudentRepository _studentRepository;
 
     public InscriptionService(
-        IInscriptionRepository inscriptionRepository, 
+        IInscriptionRepository inscriptionRepository,
         ISectionRepository sectionRepository,
-        IStudentRepository studentRepository) 
+        IStudentRepository studentRepository)
         : base(inscriptionRepository)
     {
         _inscriptionRepository = inscriptionRepository;
@@ -23,22 +23,26 @@ public class InscriptionService : Service<Inscription>, IInscriptionService
 
     public async Task<Inscription> EnrollStudentAsync(int studentId, int sectionId)
     {
-        // we verify tha student and section exist
+        // verify that the student and section exist
         if (!await _studentRepository.GetByIdAsync(studentId).ContinueWith(t => t.Result != null))
             throw new InvalidOperationException($"Student with ID {studentId} not found.");
 
         if (!await _sectionRepository.GetByIdAsync(sectionId).ContinueWith(t => t.Result != null))
             throw new InvalidOperationException($"Section with ID {sectionId} not found.");
 
-        // verify if a student is already enrolled in a section
+        // verify if the student is already enrolled in this section
         if (await _inscriptionRepository.AnyEnrollmentAsync(sectionId, studentId))
             throw new InvalidOperationException("Student is already enrolled in this section.");
 
-        // verify the section's places availability
+        // verify the section's capacity availability
         if (!await IsSectionAvailableAsync(sectionId))
             throw new InvalidOperationException("Section has reached its maximum capacity.");
 
-        // create and saved a section
+        // NEW: verify that the student is not enrolled in another section with overlapping schedule
+        if (await HasScheduleConflictAsync(studentId, sectionId))
+            throw new InvalidOperationException("Student is already enrolled in a section with overlapping schedule.");
+
+        // create and save the inscription
         var newInscription = new Inscription
         {
             StudentId = studentId,
@@ -56,9 +60,34 @@ public class InscriptionService : Service<Inscription>, IInscriptionService
 
         return currentEnrollment < maxCapacity;
     }
-    
+
     public async Task<IEnumerable<Inscription>> GetInscriptionsByStudentIdAsync(int studentId)
     {
         return await _inscriptionRepository.GetInscriptionsByStudentIdAsync(studentId);
+    }
+
+    // NEW: helper method to check schedule conflicts for a student
+    private async Task<bool> HasScheduleConflictAsync(int studentId, int targetSectionId)
+    {
+        var targetSection = await _sectionRepository.GetByIdAsync(targetSectionId);
+        if (targetSection == null) return false;
+
+        var studentInscriptions = await _inscriptionRepository.GetInscriptionsByStudentIdAsync(studentId);
+
+        foreach (var inscription in studentInscriptions)
+        {
+            var existingSection = inscription.Section;
+            if (existingSection == null) continue;
+
+            // compare day and time overlap
+            bool sameDay = existingSection.DaySection == targetSection.DaySection;
+            bool overlap = targetSection.StarTime < existingSection.EndTime &&
+                           existingSection.StarTime < targetSection.EndTime;
+
+            if (sameDay && overlap)
+                return true;
+        }
+
+        return false;
     }
 }
