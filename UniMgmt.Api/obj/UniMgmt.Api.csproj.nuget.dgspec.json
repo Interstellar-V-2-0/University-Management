@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Api/UniMgmt.Api.csproj": {}
+    "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Api/UniMgmt.Api.csproj": {}
   },
   "projects": {
-    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Api/UniMgmt.Api.csproj": {
+    "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Api/UniMgmt.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Api/UniMgmt.Api.csproj",
+        "projectUniqueName": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Api/UniMgmt.Api.csproj",
         "projectName": "UniMgmt.Api",
-        "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Api/UniMgmt.Api.csproj",
-        "packagesPath": "/home/anamaria-mu-oz/.nuget/packages/",
-        "outputPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Api/obj/",
+        "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Api/UniMgmt.Api.csproj",
+        "packagesPath": "/home/zamir-estrada/.nuget/packages/",
+        "outputPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/anamaria-mu-oz/.nuget/NuGet/NuGet.Config"
+          "/home/zamir-estrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -26,11 +26,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj": {
-                "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj"
+              "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Application/UniMgmt.Application.csproj": {
+                "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Application/UniMgmt.Application.csproj"
               },
-              "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj": {
-                "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj"
+              "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj": {
+                "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj"
               }
             }
           }
@@ -39,13 +39,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -77,20 +71,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[8.0.21, 8.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -99,21 +79,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/anamaria-mu-oz/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj": {
+    "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Application/UniMgmt.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj",
+        "projectUniqueName": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Application/UniMgmt.Application.csproj",
         "projectName": "UniMgmt.Application",
-        "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/UniMgmt.Application.csproj",
-        "packagesPath": "/home/anamaria-mu-oz/.nuget/packages/",
-        "outputPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Application/obj/",
+        "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Application/UniMgmt.Application.csproj",
+        "packagesPath": "/home/zamir-estrada/.nuget/packages/",
+        "outputPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/anamaria-mu-oz/.nuget/NuGet/NuGet.Config"
+          "/home/zamir-estrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -125,8 +105,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj": {
-                "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj"
+              "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/UniMgmt.Domain.csproj": {
+                "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/UniMgmt.Domain.csproj"
               }
             }
           }
@@ -135,13 +115,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -157,36 +131,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/anamaria-mu-oz/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj": {
+    "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/UniMgmt.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj",
+        "projectUniqueName": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/UniMgmt.Domain.csproj",
         "projectName": "UniMgmt.Domain",
-        "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj",
-        "packagesPath": "/home/anamaria-mu-oz/.nuget/packages/",
-        "outputPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/obj/",
+        "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/UniMgmt.Domain.csproj",
+        "packagesPath": "/home/zamir-estrada/.nuget/packages/",
+        "outputPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/anamaria-mu-oz/.nuget/NuGet/NuGet.Config"
+          "/home/zamir-estrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -204,13 +168,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -226,36 +184,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/anamaria-mu-oz/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj": {
+    "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj",
+        "projectUniqueName": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj",
         "projectName": "UniMgmt.Infrastructure",
-        "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj",
-        "packagesPath": "/home/anamaria-mu-oz/.nuget/packages/",
-        "outputPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Infrastructure/obj/",
+        "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Infrastructure/UniMgmt.Infrastructure.csproj",
+        "packagesPath": "/home/zamir-estrada/.nuget/packages/",
+        "outputPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/anamaria-mu-oz/.nuget/NuGet/NuGet.Config"
+          "/home/zamir-estrada/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -267,8 +215,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj": {
-                "projectPath": "/home/anamaria-mu-oz/Escritorio/University-Management/UniMgmt.Domain/UniMgmt.Domain.csproj"
+              "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/UniMgmt.Domain.csproj": {
+                "projectPath": "/home/zamir-estrada/Documents/C#/ProjectsAPi/UniversityMgmt/UniMgmt.Domain/UniMgmt.Domain.csproj"
               }
             }
           }
@@ -277,13 +225,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -309,22 +251,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.21, 8.0.21]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/anamaria-mu-oz/.dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
