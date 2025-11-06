@@ -17,7 +17,7 @@ public class SectionService : Service<Section>, ISectionService
     {
         var maxCapacity = await _sectionRepository.GetMaxCapacityAsync(sectionId);
         var currentEnrollment = await _sectionRepository.GetCurrentEnrollmentCountAsync(sectionId);
-        
+
         return Math.Max(0, maxCapacity - currentEnrollment);
     }
 }

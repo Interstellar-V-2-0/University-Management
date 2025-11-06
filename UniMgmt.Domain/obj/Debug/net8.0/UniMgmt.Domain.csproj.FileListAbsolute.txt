@@ -1,12 +1,24 @@
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\bin\Debug\net8.0\UniMgmt.Domain.deps.json
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\bin\Debug\net8.0\UniMgmt.Domain.dll
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\bin\Debug\net8.0\UniMgmt.Domain.pdb
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\UniMgmt.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\UniMgmt.Domain.AssemblyInfoInputs.cache
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\UniMgmt.Domain.AssemblyInfo.cs
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\UniMgmt.Domain.csproj.CoreCompileInputs.cache
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\UniMgmt.Domain.sourcelink.json
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\UniMgmt.Domain.dll
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\refint\UniMgmt.Domain.dll
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\UniMgmt.Domain.pdb
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Domain\obj\Debug\net8.0\ref\UniMgmt.Domain.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/bin/Debug/net8.0/UniMgmt.Domain.deps.json
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/bin/Debug/net8.0/UniMgmt.Domain.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/bin/Debug/net8.0/UniMgmt.Domain.pdb
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.AssemblyInfoInputs.cache
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.AssemblyInfo.cs
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.csproj.CoreCompileInputs.cache
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.sourcelink.json
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/refint/UniMgmt.Domain.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.pdb
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Domain/obj/Debug/net8.0/ref/UniMgmt.Domain.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/bin/Debug/net8.0/UniMgmt.Domain.deps.json
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/bin/Debug/net8.0/UniMgmt.Domain.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/bin/Debug/net8.0/UniMgmt.Domain.pdb
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.AssemblyInfoInputs.cache
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.AssemblyInfo.cs
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.csproj.CoreCompileInputs.cache
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.sourcelink.json
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/refint/UniMgmt.Domain.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/UniMgmt.Domain.pdb
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Domain/obj/Debug/net8.0/ref/UniMgmt.Domain.dll

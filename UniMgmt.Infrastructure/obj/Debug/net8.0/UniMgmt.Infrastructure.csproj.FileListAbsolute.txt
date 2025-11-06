@@ -1,16 +1,32 @@
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\bin\Debug\net8.0\UniMgmt.Infrastructure.deps.json
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\bin\Debug\net8.0\UniMgmt.Infrastructure.dll
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\bin\Debug\net8.0\UniMgmt.Infrastructure.pdb
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\bin\Debug\net8.0\UniMgmt.Domain.dll
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\bin\Debug\net8.0\UniMgmt.Domain.pdb
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.AssemblyInfo.cs
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.sourcelink.json
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt..81589E2B.Up2Date
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.dll
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\refint\UniMgmt.Infrastructure.dll
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\UniMgmt.Infrastructure.pdb
-C:\Users\PC\OneDrive\Escritorio\University-Management\UniMgmt.Infrastructure\obj\Debug\net8.0\ref\UniMgmt.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Infrastructure.deps.json
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Infrastructure.pdb
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Domain.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Domain.pdb
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.AssemblyInfo.cs
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.sourcelink.json
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt..81589E2B.Up2Date
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/refint/UniMgmt.Infrastructure.dll
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.pdb
+C:/Users/PC/OneDrive/Escritorio/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/ref/UniMgmt.Infrastructure.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Infrastructure.deps.json
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Infrastructure.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Infrastructure.pdb
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Domain.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/bin/Debug/net8.0/UniMgmt.Domain.pdb
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.csproj.AssemblyReference.cache
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.AssemblyInfoInputs.cache
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.AssemblyInfo.cs
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.csproj.CoreCompileInputs.cache
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.sourcelink.json
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.csproj.CopyComplete
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/refint/UniMgmt.Infrastructure.dll
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/UniMgmt.Infrastructure.pdb
+/home/windwalker/Documentos/C# Dan/Historias de usuario/University-Management/UniMgmt.Infrastructure/obj/Debug/net8.0/ref/UniMgmt.Infrastructure.dll
